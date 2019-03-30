@@ -1,0 +1,7 @@
+/Users/panshuai/IT/javacode/rocketMQ-3.2.6/rocketmq-namesrv/src/main/java/com/alibaba/rocketmq/namesrv/routeinfo/BrokerHousekeepingService.java
+/Users/panshuai/IT/javacode/rocketMQ-3.2.6/rocketmq-namesrv/src/main/java/com/alibaba/rocketmq/namesrv/NamesrvController.java
+/Users/panshuai/IT/javacode/rocketMQ-3.2.6/rocketmq-namesrv/src/main/java/com/alibaba/rocketmq/namesrv/kvconfig/KVConfigManager.java
+/Users/panshuai/IT/javacode/rocketMQ-3.2.6/rocketmq-namesrv/src/main/java/com/alibaba/rocketmq/namesrv/kvconfig/KVConfigSerializeWrapper.java
+/Users/panshuai/IT/javacode/rocketMQ-3.2.6/rocketmq-namesrv/src/main/java/com/alibaba/rocketmq/namesrv/routeinfo/RouteInfoManager.java
+/Users/panshuai/IT/javacode/rocketMQ-3.2.6/rocketmq-namesrv/src/main/java/com/alibaba/rocketmq/namesrv/NamesrvStartup.java
+/Users/panshuai/IT/javacode/rocketMQ-3.2.6/rocketmq-namesrv/src/main/java/com/alibaba/rocketmq/namesrv/processor/DefaultRequestProcessor.java
